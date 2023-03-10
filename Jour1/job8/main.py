@@ -1,0 +1,5 @@
+alphabet=("abcdefghigklmnopkrstuvwxyz")
+print(alphabet)
+reversed(alphabet)
+rev = ''.join(reversed(alphabet))
+print (rev)
